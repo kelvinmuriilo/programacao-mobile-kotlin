@@ -37,4 +37,12 @@
         app:layout_constraintStart_toStartOf="@+id/buttonToast"
         app:layout_constraintTop_toBottomOf="@+id/buttonToast" />
 
+    <Button
+        android:id="@+id/buttonParcel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/parcel"
+        app:layout_constraintStart_toStartOf="@+id/buttonTela2"
+        app:layout_constraintTop_toBottomOf="@+id/buttonTela2" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

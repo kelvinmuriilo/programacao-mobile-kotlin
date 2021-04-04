@@ -21,5 +21,11 @@ class MainActivity : AppCompatActivity() {
             intent.putExtra("name",  editTextTextPersonName.text.toString())
             startActivity(intent)
         }
+
+        buttonParcel.setOnClickListener{
+            val intent = Intent(this, Tela2Activity::class.java)
+            intent.putExtra("cliente", Cliente(20, "Kelvin"))
+            startActivity(intent)
+        }
     }
 }

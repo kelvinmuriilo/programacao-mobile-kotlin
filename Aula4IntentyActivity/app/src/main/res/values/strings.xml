@@ -2,4 +2,5 @@
     <string name="app_name">Aula4IntentyActivity</string>
     <string name="toast">Exibir Toast</string>
     <string name="tela2">Tela2</string>
+    <string name="parcel">Parcel</string>
 </resources>

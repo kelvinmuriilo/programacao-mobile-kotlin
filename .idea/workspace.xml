@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58c88be6-1be2-46b0-b443-9a8b935e1062" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Mobile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4IntentyActivity/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4IntentyActivity/app/src/main/java/com/example/aula4intentyactivity/Cliente.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/src/androidTest/java/com/example/aula4listadapter/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/src/main/java/com/example/aula4listadapter/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/app/src/test/java/com/example/aula4listadapter/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula4ListAdapter/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4IntentyActivity/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4IntentyActivity/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4IntentyActivity/app/src/main/java/com/example/aula4intentyactivity/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4IntentyActivity/app/src/main/java/com/example/aula4intentyactivity/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4IntentyActivity/app/src/main/java/com/example/aula4intentyactivity/Tela2Activity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4IntentyActivity/app/src/main/java/com/example/aula4intentyactivity/Tela2Activity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4IntentyActivity/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4IntentyActivity/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula4IntentyActivity/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula4IntentyActivity/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qiuIeOlCrO4vvLIGdEOk9AY0aE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58c88be6-1be2-46b0-b443-9a8b935e1062" name="Default Changelist" comment="" />
+      <created>1617574652733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617574652733</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="731" y="99" key="FileChooserDialogImpl" timestamp="1617574688888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="99" key="FileChooserDialogImpl/0.0.1920.1040/-1366.280.1366.728@0.0.1920.1040" timestamp="1617574688888" />
+  </component>
+</project>

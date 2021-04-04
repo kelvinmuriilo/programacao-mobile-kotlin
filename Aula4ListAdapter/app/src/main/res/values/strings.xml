@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aula4ListAdapter</string>
+    <string name="label_name">label_name</string>
+    <string name="btn_add">btn_add</string>
+</resources>
