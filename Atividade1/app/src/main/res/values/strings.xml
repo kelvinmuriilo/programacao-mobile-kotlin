@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Atividade1</string>
+    <string name="welcome">Welcome!</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="sobre">Sobre</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="register_account">Não possui conta? Registre-se.</string>
+    <string name="endereco">Endereço</string>
+    <string name="cep">CEP</string>
+    <string name="complemento">Complemento</string>
+    <string name="numero">Número</string>
+    <string name="nome_completo">Nome completo</string>
+    <string name="cadastrar">Cadastrar</string>
+</resources>
