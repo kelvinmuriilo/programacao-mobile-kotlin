@@ -22,6 +22,9 @@ class MainActivity : AppCompatActivity() {
         startActivity(intent)
     }
 
-    fun btnAboutClick(view: View){}
+    fun btnAboutClick(view: View){
+        val intent = Intent(this, AboutView::class.java)
+        startActivity(intent)
+    }
 
 }
