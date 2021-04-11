@@ -13,4 +13,6 @@
     <string name="numero">Número</string>
     <string name="nome_completo">Nome completo</string>
     <string name="cadastrar">Cadastrar</string>
+    <string name="visitar">Visitar</string>
+    <string name="erro_intent_site">Erro ao abrir o site da Uninassau</string>
 </resources>
